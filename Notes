@@ -1,0 +1,6 @@
+
+For you to run my the both feature file, you will need to run it via cucumber. Java Run and debug config.
+created Login.feature
+and Updatingmyinfo.feature
+
+Created a TestRunner. java incase you would like to run the test Via the method. you can you the @test tag to run the test.
